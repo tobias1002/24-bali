@@ -9,3 +9,5 @@ This is the story of how Jack Bauer spent his one day vacation in Bali.
 * 03PM - 04PM: Monkey Forest
 * 04PM - 05PM: Ubud Art Market
 * 05PM - 06PM: Potato Head
+* 06PM - 07PM: Yoga Class
+* 07PM - 08PM: Dinner
